@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-📫 How to reach me:
+### 📫 How to reach me:
 
 - **Telegram**: For inquiries and proposals, contact me on [Telegram](https://t.me/the2rage).
 - **Email**: [2rage.name@gmail.com](mailto:2rage.name@gmail.com) or [the2rage@icloud.com](mailto:the2rage@icloud.com)
 - **LinkedIn**: Connect with me on [LinkedIn](https://www.linkedin.com/in/2rage/)
 
-Here is information about my projects:
+### 🔭 Here is information about my projects:
 
 - [KulleR.su](/ru/posts/kuller-su/) – An old project of my gaming server based on the San Andreas Multiplayer client.
 - [My dotfiles](https://github.com/2rage/dotfiles) – A set of settings and configurations for various operating systems.
