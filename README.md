@@ -9,7 +9,7 @@
 ### 🔭 Here is information about my projects:
 
 - [KulleR.su](/ru/posts/kuller-su/) – An old project of my gaming server based on the San Andreas Multiplayer client.
-- [My dotfiles](https://github.com/2rage/dotfiles) – A set of settings and configurations for various operating systems.
+- [dotfiles](https://github.com/2rage/dotfiles) – My set of settings and configurations for various operating systems.
 - [My 2rage.com website](https://github.com/2rage/personal_site) – My personal website created using the static site generator Hugo.
 - [Python Telegram bot for investment analytics (in dev)](https://github.com/2rage/VKR) – A bot for analyzing investments and providing analytical data using the Tinkoff API.
 - [My collection of Unix scripts](https://github.com/2rage/unix-misc) – A collection Python and Bash scripts for automating tasks in Unix systems.
