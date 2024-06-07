@@ -11,7 +11,7 @@
 - [KulleR.su](https://github.com/2rage/kuller_su) – An old project of my gaming server based on the San Andreas Multiplayer client
 - [dotfiles](https://github.com/2rage/dotfiles) – My set of settings and configurations for various operating systems
 - [2rage.com website](https://github.com/2rage/personal_site) – My personal website created using the static site generator Hugo
-- [Telegram bot for investment analytics (in dev)](https://github.com/2rage/VKR) – Python telegram bot for analyzing investments and providing analytical data using the Tinkoff API
+- [Telegram bot for investment analytics](https://github.com/2rage/VKR) – Python telegram bot for analyzing investments and providing analytical data using the Tinkoff API
 - [Collection of Unix scripts](https://github.com/2rage/unix-misc) – A collection Python and Bash scripts for automating tasks in Unix systems
 - [Alias game for iOS](https://github.com/2rage/alias_swift) – A hobby project developed for iOS, aimed at enhancing skills in Swift
 - [Hobby backend project (in development)](https://github.com/2rage/swiftwork) – Hobby experemintation with Swift and Vapor
