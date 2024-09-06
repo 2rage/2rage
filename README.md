@@ -15,6 +15,7 @@
 - [Collection of Unix scripts](https://github.com/2rage/unix-misc) – A collection Python and Bash scripts for automating tasks in Unix systems
 - [Alias game for iOS](https://github.com/2rage/alias_swift) – A hobby project developed for iOS, aimed at enhancing skills in Swift
 - [Hobby backend project (in development)](https://github.com/2rage/swiftwork) – Hobby experemintation with Swift and Vapor
+- [Python VLESS telegram bot](https://github.com/2rage/vless_tg_py) - Python telegram bot for VPN configuration distribution using XRay (VLESS/Reality) with 3x-ui
 
 <!--
 **2rage/2rage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
